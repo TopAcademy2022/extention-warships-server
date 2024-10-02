@@ -1,0 +1,3 @@
+[submodule "core/warships"]
+	path = core/warships
+	url = https://github.com/TopAcademy2022/warships.git
